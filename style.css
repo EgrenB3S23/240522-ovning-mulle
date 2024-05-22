@@ -1,0 +1,52 @@
+/*
+.center, .topsplash {
+    margin: auto;   
+    width: 20%;
+    border: 3px solid green;
+    padding: 10px;
+    border: 20px;
+    text-align: center;
+}
+*/
+
+.newfont {
+    font-family: cursive;
+}
+
+
+.newfont {
+    margin-top: 0;;
+    font-style: bold;
+    font-size: 200%;;
+}
+
+.topsplash {
+    width: 100%;
+/*  text-align: center;
+    display: inline-flex;   */
+}
+
+.imageDiv {
+    position: relative;
+}
+
+.imageDiv .textToBeOnTop {
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    font-size: 50px;
+    font-weight: 900;
+    color: violet;
+}
+
+body {
+    background-color: lightblue;
+    margin: 0px auto;
+    width: 800px;
+/*    text-align: center; */
+}
+
+article {
+    margin-top: 0px;
+    margin-left: 10px;
+}
